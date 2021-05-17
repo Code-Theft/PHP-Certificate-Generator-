@@ -1,7 +1,7 @@
 # PHP-Certificate-Generator-
-It's a simple PHP code to generate Digital Certificate  , created using PHP Graphics Draw (GD ) and FPDF libraries.
+It's a simple PHP code to generate Digital Certificates,created using PHP Graphics Draw (GD ) and FPDF libraries.
 
-![alt text](https://github.com/Code-theft/PHP-Certificate-Generator-/blob/master/demo/demo.png?raw=true)
+![alt text](https://github.com/Code-Theft/PHP-Certificate-Generator-/blob/6720d90332ed3429f6f667bf8c0d70f27e34619a/demo/demo.png)
 ### How to Customize
 
 	1.Change Font
@@ -17,5 +17,5 @@ It's a simple PHP code to generate Digital Certificate  , created using PHP Grap
 			Refer : `https://www.php.net/manual/en/function.imagepng.php' 
 			
 			
-![alt text](https://github.com/Code-Theft/PHP-Certificate-Generator-/blob/6720d90332ed3429f6f667bf8c0d70f27e34619a/demo/demo.png)	
+![alt text](https://github.com/Code-Theft/PHP-Certificate-Generator-/blob/8703c481e25d632187db9cc7602a614da9f47c2e/demo/demo1.png?raw=true)	
 		
