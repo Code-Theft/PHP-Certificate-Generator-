@@ -1,4 +1,4 @@
-# PHP-Certificate-Generator-
+# PHP-Digital-Certificate-Generator-
 It's a simple PHP code to generate Digital Certificates,created using PHP Graphics Draw (GD ) and FPDF libraries.
 
 ![alt text](https://github.com/Code-Theft/PHP-Certificate-Generator-/blob/6720d90332ed3429f6f667bf8c0d70f27e34619a/demo/demo.png)
