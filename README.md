@@ -17,4 +17,5 @@ It's a simple PHP code to generate Digital Certificate  , created using PHP Grap
 			Refer : `https://www.php.net/manual/en/function.imagepng.php' 
 			
 			
-![alt text](https://github.com/Code-theft/PHP-Certificate-Generator-/blob/master/demo/demo1.png?raw=true)			
+![alt text](https://github.com/Code-Theft/PHP-Certificate-Generator-/blob/6720d90332ed3429f6f667bf8c0d70f27e34619a/demo/demo.png)	
+		
